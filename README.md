@@ -1,8 +1,9 @@
 # Vocabulary-Helper-Tool
 
+1. Download the Vocabulary Helper tool Folder
 
-1. Open the file using your IDE of choice
+2. Open the file using your IDE of choice that can run Python
 
-2. Install woardhoard using the command pip install wordhoard
+3. Install woardhoard using the command pip install wordhoard
 
-3. Run the Application
+4. Run the Application
