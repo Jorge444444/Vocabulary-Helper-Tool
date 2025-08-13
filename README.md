@@ -1,6 +1,6 @@
 # Vocabulary-Helper-Tool
 
-1. Download the Vocabulary Helper tool Folder
+1. Download the Vocabulary Helper tool
 
 2. Open the file using your IDE of choice that can run Python
 
